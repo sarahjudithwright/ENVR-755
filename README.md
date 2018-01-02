@@ -1,3 +1,4 @@
 # ENVR-755
 Code for course in water resource management 
-First time using Matlab
+, first time using Matlab
+, Fall 2016
